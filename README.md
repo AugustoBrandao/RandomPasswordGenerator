@@ -99,7 +99,7 @@
 `````
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
-        "dev": "vite --open",
+        "dev": "npx vite --open",
         "lint": "eslint ./src"
     },
 
