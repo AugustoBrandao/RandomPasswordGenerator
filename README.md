@@ -124,3 +124,8 @@
 - Utilizando o Bundler Vite, é possível importar um arquivo css dentro de um arquivo JavaScript. Isso é uma prática bem comum quando for utilizar o React. 
 - Por baixo dos panos o Vite pega o CSS e injeta no html final da aplicação diretamente
 
+`````
+import { nanoid } from 'nanoid'
+import "./style.css";   // Importando o CSS dentro do JavaScript
+`````
+
