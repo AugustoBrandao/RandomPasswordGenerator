@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/AugustoBrandao/RandomPasswordGenerator#readme",
   "dependencies": {
+    "clipboard-copy": "^4.0.1",
     "nanoid": "^4.0.2"
   },
   "type": "module",
